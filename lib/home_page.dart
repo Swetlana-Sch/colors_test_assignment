@@ -1,4 +1,4 @@
-import 'package:colors_test_assignment/appUtils.dart';
+import 'package:colors_test_assignment/app_utils.dart';
 import 'package:colors_test_assignment/constants.dart';
 import 'package:flutter/material.dart';
 

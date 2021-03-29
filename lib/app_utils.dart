@@ -1,4 +1,3 @@
-// 'dart:math' is used to get access to the Random class
 import 'dart:math';
 import 'package:flutter/material.dart';
 
